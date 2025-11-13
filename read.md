@@ -1,0 +1,5 @@
+"date-fns": "4.1.0",
+"react-day-picker": "8.10.1",
+"react-hook-form": "7.53.2",
+"react-spinners": "0.14.1",
+"recharts": "2.14.1",
